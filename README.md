@@ -6,7 +6,7 @@
 Tôi là Dịu, là lập trình viên với nền tảng tốt về kiến thức lập trình và thích cảm giác khi "tiêu diệt" một con bug nào đó <img src="https://media.giphy.com/media/vGpibpw0corVNEVVp3/giphy.gif" width="30px" />. C# (.NET, WF, WPF), NodeJS, JavaScript cũng như TypeScript (JS web framework bao gồm Angular, ReactJS, Electron), Java (Spring framework, Android), PHP (Laravel, Wordpress), Python (hướng ML) là những ngôn ngữ có nhiều vốn hiểu biết tốt của tôi, tôi cũng có kiến thức cơ bản về C/C++. Ở dưới cùng có một danh sách chi tiết các công nghệ và ngôn ngữ mà tôi hiểu biết.
 
 [![truongthidiu's github stats](https://truongthidiu.vercel.app/api?username=truongthidiu&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars&text_color=FFC0CB&icon_color=FFC0CB&title_color=FFC0CB&bg_color=052339&cache_seconds=2048&hide_border=false&layout=compact)](https://github.com/truongthidiu?tab=repositories)  
-[![truongthidiu's gitHub streak stats](https://diustats.herokuapp.com?user=truongthidiu&date_format=n%2Fj%5B%2FY%5D)](https://github.com/truongthidiu?tab=repositories)
+[![truongthidiu's gitHub streak stats](https://diustats.herokuapp.com?user=truongthidiu&theme=highcontrast&hide_border=true&background=052339&stroke=FFC0CB&border=FFC0CB&ring=FFC0CB&fire=FFC0CB&currStreakNum=FFC0CB&sideNums=FFC0CB&currStreakLabel=FFC0CB&sideLabels=FFC0CB&dates=FFC0CB)](https://github.com/truongthidiu?tab=repositories)
 
 ## Công nghệ sử dụng
 <details>
