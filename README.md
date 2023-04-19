@@ -16,4 +16,4 @@ I am familiar with a wide range of languages and technologies. There is a detail
 </details>
 
 [![truongthidiu's github stats](https://truongthidiu.vercel.app/api?username=truongthidiu&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars&text_color=FFC0CB&icon_color=FFC0CB&title_color=FFC0CB&bg_color=052339&cache_seconds=2048&hide_border=false&layout=compact)](https://github.com/truongthidiu?tab=repositories)  
-[![truongthidiu's gitHub streak stats](https://diustats.herokuapp.com?user=truongthidiu&theme=highcontrast&hide_border=true&background=052339&stroke=FFC0CB&border=FFC0CB&ring=FFC0CB&fire=FFC0CB&currStreakNum=FFC0CB&sideNums=FFC0CB&currStreakLabel=FFC0CB&sideLabels=FFC0CB&dates=FFC0CB)](https://github.com/truongthidiu?tab=repositories)
+[![truongthidiu's gitHub streak stats](https://truongthidiu.vercel.app?user=truongthidiu&theme=highcontrast&hide_border=true&background=052339&stroke=FFC0CB&border=FFC0CB&ring=FFC0CB&fire=FFC0CB&currStreakNum=FFC0CB&sideNums=FFC0CB&currStreakLabel=FFC0CB&sideLabels=FFC0CB&dates=FFC0CB)](https://github.com/truongthidiu?tab=repositories)
